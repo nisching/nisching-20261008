@@ -1,1 +1,4 @@
-"# nisching-20261008" 
+nisching.txt: Aufgaben
+
+commands.txt: Befehle
+
