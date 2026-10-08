@@ -1,0 +1,29 @@
+3.
+git add nisching.txt
+
+4.
+git commit -m "add nisching.txt"
+
+5.
+git checkout -b feature/nisching
+
+6.
+git add nisching.txt
+git commit -m "change description"
+
+7.
+git checkout main
+
+8.
+git merge feature/nisching
+
+9.
+git status
+
+10.
+git log
+
+Neuen Branch pushen:
+git checkout feature/nisching
+git push
+git push --set-upstream origin feature/nisching
