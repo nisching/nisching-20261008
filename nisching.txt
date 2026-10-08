@@ -1,3 +1,9 @@
 Mein Name ist Nico.
 Ich lerne Git.
 Ich lerne auch, wie man Branches in Git verwendet.
+
+Was ist ein Merge-Konflikt:
+Ein Merge-Konflikt ist ein Konflikt, wenn dieselbe Veränderung einer Datei, von zwei unterschiedlichen Branches auf einen gemerged wird.
+
+Wie entsteht ein Merge-Konflikt:
+Wenn zB. zwei User auf unterschiedlichen Branches den selben Fehler (zb. eine typo) ausbessern, und beide den Commit auf den Main-Branch zB. mergen. Würde ja nicht gehen, wenn zwei mal die gleiche Veränderung einmal zusammen geführt wird.
