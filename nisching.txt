@@ -1,0 +1,2 @@
+Mein Name ist Nico.
+Ich lerne Git.
